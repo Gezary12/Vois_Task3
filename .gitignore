@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# Allure report folders
+allure-results/
+allure-report/
